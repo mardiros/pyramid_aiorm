@@ -10,7 +10,6 @@ import aiorm
 from aiorm import orm
 from aiorm import registry
 
-from .transaction import TransactionManager
 log = logging.getLogger(__name__)
 
 
